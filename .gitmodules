@@ -7,3 +7,6 @@
 [submodule "packages/Open-AI-Design-Agent"]
 	path = packages/Open-AI-Design-Agent
 	url = https://github.com/Anil-matcha/Open-AI-Design-Agent
+[submodule "packages/studio"]
+	path = packages/studio
+	url = https://github.com
